@@ -196,7 +196,7 @@ This project is licensed under the [MIT License](LICENSE). The dataset belongs t
 
 **Your Name**
 - GitHub: [@ZuhaibHassan13](https://github.com/ZuhaibHassan13)
-- LinkedIn: [Zuhaib Hassan](www.linkedin.com/in/iamzuhaibhassan)
+- LinkedIn: [Zuhaib Hassan](https://www.linkedin.com/in/iamzuhaibhassan)
 
 ---
 
